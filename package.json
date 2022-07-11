@@ -1,0 +1,28 @@
+{
+  "name": "@dylanplayer/acs-3310-final",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dylanplayer/acs-3310-final.git"
+  },
+  "keywords": [],
+  "author": "dylanplayer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dylanplayer/acs-3310-final/issues"
+  },
+  "files": ["dist/"],
+  "homepage": "https://github.com/dylanplayer/acs-3310-final#readme",
+  "devDependencies": {
+    "@types/jest": "^28.1.4",
+    "jest": "^28.1.2",
+    "ts-jest": "^28.0.5",
+    "typescript": "^4.7.4"
+  }
+}
